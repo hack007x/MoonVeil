@@ -2,79 +2,22 @@
 
 <p align="center">
   <img width="128" height="128" alt="icon_small" src="https://github.com/user-attachments/assets/be614111-8a7d-427c-8ff9-461d02a61342" /><br>
-  <strong>镜花水月，虚实相生</strong><br>
+  <strong>「镜花水月，虚实相生」</strong><br>
   <span style="font-size:14px; color:#666;">透过现象看本质 · 化虚为实守安全</span>
 </p>
 
+<p align="center">
+  <img width="128" height="128" alt="MoonVeil icon" src="https://github.com/user-attachments/assets/4c367e39-8ffa-4d79-b248-2483483ecdd5" />
+</p>
+
+<strong>镜花水月 「MoonVeil」</strong><br>
+集成多种攻防技术与检测手段，帮助安全测试人员高效进行信息收集、漏洞挖掘、利用验证，提升渗透测试的自动化与体系化水平，为安全团队快速发现潜在与攻击面提供充分支持。
+
+<br><br>
+
+<strong>「主要功能」</strong>：端口扫描、指纹存活、域名枚举、POC探测、密码爆破、目录遍历、网络爬虫、空间测绘、请求发包、socks5代理、红队辅助等。
 
 
-<div style="text-align:center;">
-  <strong>「镜花水月，虚实相生」</strong><br>
-  <span style="font-size:14px; color:#666;">透过现象看本质 · 化虚为实守安全</span>
-</div>
 
 
-一款单兵作战渗透平台，集成了常用的网络安全测试功能。
 
-功能特性
-
-信息收集
-
-端口扫描 - TCP/UDP端口扫描、服务识别、Banner抓取、IP地理位置查询
-
-域名枚举 - 子域名收集、DNS枚举、API聚合查询、泛解析检测
-
-指纹识别 - Web应用识别、技术栈探测、Favicon Hash、WAF检测
-
-网络爬虫 - 深度页面爬取、链接提取、表单识别、敏感信息收集
-
-
-漏洞检测
-
-POC探测 - 基于Nuclei引擎的漏洞验证、支持自定义POC规则
-
-目录遍历 - 敏感目录文件发现、智能爬虫、通配符检测
-
-免验扫描 - 常见未授权检测
-
-渗透工具
-
-密码爆破 - 多协议弱口令检测、自适应延时、分布式爆破
-
-请求发包 - HTTP请求构造、协议复现、响应分析、Payload生成器
-
-代理设置 - SOCKS/HTTP代理、代理链、流量转发、证书管理
-
-红队工具
-
-反弹Shell - 多语言Shell生成、编码混淆、持久化脚本
-
-常用命令 - 渗透命令速查、Payload库、绕过技巧
-
-下载命令 - 文件传输方案、隐蔽下载、断点续传
-
-辅助功能
-
-系统监控 - 实时资源监控、任务管理、性能分析
-
-结果导出 - 多格式报告生成（JSON/CSV/HTML）
-
-批量处理 - 任务队列、并发控制、断点续扫
-
-网页截图 - 自动截图、批量保存、缩略图预览
-
-技术亮点
-
-跨平台支持（Windows/macOS/Linux）
-
-高性能并发扫描
-
-模块化架构设计
-
-实时进度展示
-
-智能去重与缓存
-
-免责声明
-
-本工具仅供安全研究和授权测试使用，使用者需遵守当地法律法规。作者不对任何非法使用承担责任。
