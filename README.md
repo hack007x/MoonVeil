@@ -6,8 +6,8 @@
   <span style="font-size:14px; color:#666;">透过现象看本质 · 化虚为实守安全</span>
 </p>
 
-https://github.com/user-attachments/assets/10988e8f-18c0-4026-8811-ae943b87d535 <br>
-<img width="1433" height="845" alt="image" src="https://github.com/user-attachments/assets/3ab61136-b400-4e95-838e-a611a44066b2" />
+https://github.com/user-attachments/assets/10988e8f-18c0-4026-8811-ae943b87d535 
+
 
 
 
