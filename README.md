@@ -1,19 +1,7 @@
-集成多种攻防技术与检测手段，帮助安全测试人员高效执行信息收集、漏洞挖掘、利用验证， 提升渗透测试的自动化与体系化水平，为安全团队快速发现潜在风险与攻击面提供有力支持。
 
-项目持续开发调试中 尽情期待。
 
-<img width="1431" height="838" alt="xx0" src="https://github.com/user-attachments/assets/dabc4993-115d-490a-99b4-b49fd3950a1b" />
-<img width="1432" height="840" alt="image" src="https://github.com/user-attachments/assets/7e8ba6c5-783c-4cc2-b82f-9d11f8fe8eaf" />
-<img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/ae74a2a7-2131-4b15-b4b6-d419e02cdad7" />
-<img width="1431" height="836" alt="xx3" src="https://github.com/user-attachments/assets/890d79fd-6ba0-40b7-82cd-370308b902d4" />
-<img width="1431" height="836" alt="xx4" src="https://github.com/user-attachments/assets/89ddeb07-5b9f-4869-a1d1-20dc1a886437" />
-<img width="1431" height="840" alt="image" src="https://github.com/user-attachments/assets/872d9f65-e08a-4f46-a998-cb5a0a2df70f" />
-<img width="1435" height="837" alt="image" src="https://github.com/user-attachments/assets/3573e089-ba27-4dfd-babd-14cef578e6b1" />
-<img width="1433" height="836" alt="image" src="https://github.com/user-attachments/assets/eb27a377-ca0c-4748-b4d0-0d6b20afa4ab" />
-<img width="1433" height="837" alt="image" src="https://github.com/user-attachments/assets/4887d1c9-afbd-4790-a5cf-04e6d9deafba" />
-<img width="1432" height="841" alt="image" src="https://github.com/user-attachments/assets/5a6f00b8-6913-4089-bbdb-b943a15dcc7e" />
-
-镜花水月 - 综合渗透测试平台
+「镜花水月，虚实相生」
+透过现象看本质 · 化虚为实守安全
 
 一款单兵作战渗透平台，集成了常用的网络安全测试功能。
 
