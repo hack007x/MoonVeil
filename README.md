@@ -1,6 +1,9 @@
 
-<strong>镜花水月，虚实相生</strong><br>
-<span style="font-size:14px; color:#666;">透过现象看本质 · 化虚为实守安全</span>
+<div style="text-align:center;">
+  <strong>镜花水月，虚实相生</strong><br>
+  <span style="font-size:14px; color:#666;">透过现象看本质 · 化虚为实守安全</span>
+</div>
+
 
 一款单兵作战渗透平台，集成了常用的网络安全测试功能。
 
