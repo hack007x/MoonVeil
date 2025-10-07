@@ -60,6 +60,7 @@ https://github.com/user-attachments/assets/07a57d3d-2f41-485b-b64a-5dc1fe9f7420
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/5c66374c-8504-4522-a7da-62c365e65081" />
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/ee95a996-c913-4516-a80a-fc4e024ac0bd" />
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/b39ab0d3-309b-454e-a57f-5b131b0d6f4e" />
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/a59f08e3-1acf-472e-9e72-3aa58d476a05" />
 <span style="font-size:14px; color:#666;">配置文件在config文件夹下。</span>
 <img width="1763" height="466" alt="image" src="https://github.com/user-attachments/assets/0f91301a-3240-4bc4-aa05-60d0b1aabc95" />
 
