@@ -1,6 +1,7 @@
 
 
 <img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/b838fb0f-f263-4ce0-94a0-c34a8ab23125" />
+<img width="128" height="128" alt="icon_small" src="https://github.com/user-attachments/assets/be614111-8a7d-427c-8ff9-461d02a61342" />
 
 <div style="text-align:center;">
   <strong>「镜花水月，虚实相生」</strong><br>
