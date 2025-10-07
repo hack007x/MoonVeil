@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/07a57d3d-2f41-485b-b64a-5dc1fe9f7420
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/841eafe7-93e6-4b13-ad2a-727cdf9946f2" />
 
 <strong>空间测绘</strong><br>
-<span style="font-size:14px; color:#666;">目前只实现FOFA、剩余的模块尚未公开,主要是累了很懒,但为了弥补内置SRCAtlas资产测绘平台(自主研发) 无需配置。</span>
+<span style="font-size:14px; color:#666;">目前只实现FOFA、剩余的模块尚未公开,主要是累了很懒,但为了弥补内置SRCAtlas资产测绘平台(自主研发) 无需配置,但是配置很低,老是罢工不干活 数据量太大了,有实力再升级</span>
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/dd7e36ff-fa71-4dc5-ae61-6a596b3546c0" />
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/5c66374c-8504-4522-a7da-62c365e65081" />
 <img width="1434" height="840" alt="image" src="https://github.com/user-attachments/assets/ee95a996-c913-4516-a80a-fc4e024ac0bd" />
