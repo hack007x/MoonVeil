@@ -1,10 +1,11 @@
 
 
-<div style="text-align:center;">
+<p align="center">
   <img width="128" height="128" alt="icon_small" src="https://github.com/user-attachments/assets/be614111-8a7d-427c-8ff9-461d02a61342" /><br>
   <strong>镜花水月，虚实相生</strong><br>
   <span style="font-size:14px; color:#666;">透过现象看本质 · 化虚为实守安全</span>
-</div>
+</p>
+
 
 
 <div style="text-align:center;">
